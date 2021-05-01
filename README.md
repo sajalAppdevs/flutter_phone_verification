@@ -1,6 +1,6 @@
 # phone_verification
 
-A new Flutter project.
+Basic Phone verification otp using firebase.
 
 ## Getting Started
 
